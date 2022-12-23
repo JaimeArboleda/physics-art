@@ -1,2 +1,2 @@
-# physics-art
+# React-Particles-P5
 Created with CodeSandbox
